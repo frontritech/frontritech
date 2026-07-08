@@ -1,16 +1,91 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**frontritech/frontritech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/frontritech/frontritech/blob/main/BannerGitHub.png?raw=true" alt="FronTri Tech"/>
 
-Here are some ideas to get you started:
+# FronTri Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Building modern web solutions.
+
+Desenvolvemos soluções digitais modernas, escaláveis e de alta qualidade para empresas e empreendedores.
+
+</div>
+
+---
+
+## 🚀 Sobre
+
+A **FronTri Tech** é uma empresa brasileira especializada em desenvolvimento web e soluções tecnológicas.
+
+Nosso objetivo é transformar ideias em produtos digitais por meio de tecnologia, design e boas práticas de engenharia de software.
+
+---
+
+## 💼 Serviços
+
+- 🌐 Desenvolvimento de Websites
+- ⚛️ Aplicações Web
+- 🎨 Landing Pages
+- 📱 Interfaces Responsivas
+- 🔧 APIs e Back-end
+- ☁️ Deploy e Infraestrutura
+- 🔐 Segurança e Boas Práticas
+
+---
+
+## 🛠️ Tecnologias
+
+### Front-end
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- Next.js
+
+### Back-end
+
+- Java
+- Spring Boot
+- Node.js
+
+### Banco de Dados
+
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### Cloud & DevOps
+
+- Docker
+- GitHub Actions
+- Vercel
+- Cloudflare
+
+---
+
+## 📂 Projetos
+
+Em breve nossos projetos públicos estarão disponíveis.
+
+---
+
+## 🌎 Website
+
+https://frontri.com.br
+
+---
+
+## 📬 Contato
+
+📧 frontritech@outlook.com
+
+---
+
+<div align="center">
+
+© 2026 FronTri Tech
+
+Building modern web solutions.
+
+</div>
